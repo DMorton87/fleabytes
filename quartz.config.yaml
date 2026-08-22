@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dmorton87.github.io
+  baseUrl: dmorton87.github.io/fleabytes
   ignorePatterns:
     - private
     - templates
